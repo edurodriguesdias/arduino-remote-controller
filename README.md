@@ -1,10 +1,10 @@
 <div align = center>
 
-## Remote Control Arduino
-Just a small project to create custom sequence of commands and control your devices using Arduino components
+## Arduino Remote Control Project
+A compact project aimed at developing a customizable sequence of commands to remotely control devices using Arduino components.
 
-## Philips Controller Commands HEX
-Here we have a small part of a lot buttons may be mapped. So, if you want to map HEX codes from another controller or, you need a specific code that we don't provided here, you can remove comments from lines #7, #18 and #24 of `remote_controller.ino` file. After removing those comments, you can use your controller to see which HEX code represents each button you want to know.
+## Philips Controller HEX Commands
+This section contains a subset of buttons that can be mapped. If you wish to map HEX codes from another controller or require a specific code not provided here, simply uncomment lines #7, #18, and #24 in the remote_controller.ino file. After removing these comments, you can use your controller to identify the HEX code corresponding to each desired button.
 <hr>
 <br>
 
